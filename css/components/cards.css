@@ -1,0 +1,22 @@
+.cards{
+  display: flex;
+  align-items: top;
+  padding-bottom: 4em;
+}
+.card{
+  border: rgba(0, 0, 0, 0.3) solid 1px;
+  border-radius: 4px;
+  margin: 0 1em;
+  text-align: center;
+  box-shadow: 0 0 5px rgb(230 230 230);
+}
+
+.card img{
+  height: 120px;
+  margin-top: 1em;
+
+}
+
+.cards-container{
+  text-align: center;
+}
